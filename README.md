@@ -1,5 +1,9 @@
 ### SIDALGO PYTHON LIBRARY
 
+How to Use:
+## Just Import the library from sid_algo using
+**from sid_algo import library_name**
+
 ### SORTING ALGO
 * Bubble Sort **bubble_sort(list)**
 * Insertion Sort **insertion_sort(list)**
