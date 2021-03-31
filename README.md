@@ -1,4 +1,4 @@
-### SIDALGO
+### SIDALGO PYTHON LIBRARY
 
 ### SORTING ALGO
 * Bubble Sort **bubble_sort(list)**
